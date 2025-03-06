@@ -1,4 +1,4 @@
-Weather Monitoring App
+# Weather Monitoring App
 
 ## Features
 
