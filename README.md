@@ -1,3 +1,18 @@
+Weather Monitoring App
+
+## Features
+
+- Current weather information
+- 5-day weather forecast
+- Search by city
+- Wind Speed Information
+- Air Quality Index (AQI) 
+- UV Index 
+- Sunrise & Sunset feature
+- Responsive design
+
+![App Screenshot](public/1.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
